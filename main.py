@@ -2,7 +2,7 @@
 
 
 
-#Difficulty Extra Hard 😭: Only use Hints 1 & 2 to complete the project.
+
 #Difficulty Expert 🤯: Only use Hint 1 to complete the project.
 
 ############### Our Blackjack House Rules #####################
