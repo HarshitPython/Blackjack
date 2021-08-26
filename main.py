@@ -3,7 +3,7 @@
 
 
 
-#Difficulty Expert 🤯: Only use Hint 1 to complete the project.
+
 
 ############### Our Blackjack House Rules #####################
 
