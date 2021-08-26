@@ -18,10 +18,7 @@
 
 ##################### Hints #####################
 
-#Hint 1: Go to this website and try out the Blackjack game: 
-#   https://games.washingtonpost.com/games/blackjack/
-#Then try out the completed Blackjack project here: 
-#   http://blackjack-final.appbrewery.repl.run
+
 
 #Hint 2: Read this breakdown of program requirements: 
 #   http://listmoz.com/view/6h34DJpvJBFVRlZfJvxF
